@@ -1,0 +1,29 @@
+Peter Tasy - Homework 1 
+1/29/24
+
+1. First, after the user enters the URL, they are connected by their ISP to the relevant DNS.
+The DNS then sends out the specific IP address of the site your computed requested, which then allows your 
+device to access the web server hosting the site.
+- ISP stands for internet service provider, companies that provide services to access the internet
+- a DNS is a domain name server, which effectively maps domains to IP address, like a person to a phone number in a phone book
+- URL is the unique identifier that tells the DNS what site the user wants
+- A web server is the actual host of the site in question
+
+
+2. HTML stands for HyperText Markup Language. It is effectively the coding language that defines the structure
+of a particular web page, through the use of tags and elements.
+
+
+3. Looking at Fordham's site, it's easy to pick it apart. Important tabs that users might need are situated clearly
+at the top of the page, while opposite to them is the logo of the university, clearly stating who runs the page.
+A search bar is provided for anybody that does not find what they need in the tabs, and highlights of the university
+are posted front and center on the page.
+
+
+4. A tag is a keyword enclosed in angle brackets that define the structure of an HTML page, like <p> </p>.
+An element is an opening and closing tag, along with its content, like <p> This is a paragraph </P>
+An attribute is a special keyword in the opening tag that changes an element's behavior, like "href" to link a site
+to an element.
+
+
+5. 
