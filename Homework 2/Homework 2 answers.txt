@@ -1,0 +1,16 @@
+Peter Tasy - Homework 2
+1/29/24
+
+
+1. Structual elements are strictly that, structural: they deal only in how the page is laid out. 
+Semantic elements provide superficial information, such as a quotation, or a paragraph, or a header.
+
+2. Using correct HTML elements helps in informing the browser about its contents, which make the site easier to access.
+Using correct elements also helps to make the site easier to navigate on the user end.
+
+3. Forms allow the users of a site to input data on a site, and allow that data to be stored on a web server.
+You'd use them whenever a site needs user input, such as inputting user information in a document, or a submit button, or a checkbox.
+
+4. Inline elements, as the name suggests, are elements that do not start on a new line, and only take up as much width as necessary,
+like an <img> element. Conversely, block elements must start on a new line, taking up the full width of their container,
+like a <div> element.

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fictitious Store</title>
+    <style>
+        /* Add your styles here for a more appealing design */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+
+        .content-div {
+            margin-top: 20px;
+            border: 1px solid #ddd;
+            padding: 10px;
+        }
+
+        .grouped-content {
+            display: inline-block;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Welcome to our Fictitious Store</h1>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="checkout.html">Checkout</a></li>
+            <li><a href="https://www.google.com/" target="_blank">External Store</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Featured Products</h2>
+
+        <div class="content-div">
+            <img src="bread.jpg" alt="Bread">
+            <p>Description of Product 1</p>
+            <span class="grouped-content">Price: $7.99</span>
+            <span class="grouped-content">In Stock</span>
+        </div>
+
+        <div class="content-div">
+            <img src="banana.jpg" alt="Bananas">
+            <p>Description of Product 2</p>
+            <span class="grouped-content">Price: $5.99</span>
+            <span class="grouped-content">Out of Stock</span>
+        </div>
+    </section>
+
+    <section>
+        <h2>Product Categories</h2>
+        <ul>
+            <li><a href="#">Electronics</a></li>
+            <li><a href="#">Clothing</a></li>
+            <li><a href="#">Books</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Product Reviews</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>User</th>
+                    <th>Review</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Customer 1</td>
+                    <td>Great product! Highly recommended.</td>
+                </tr>
+                <tr>
+                    <td>Customer 2</td>
+                    <td>Fast shipping and excellent quality.</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Fictitious Store. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
