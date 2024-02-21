@@ -1,0 +1,18 @@
+Peter Tasy
+Homework 4 Question Answers
+
+1. JavaScript is an interpreted programming language that is widely used for web development.
+Interpreted languages are executed line by line, while compiled languages are translated
+entirely into machine code before executing.
+
+2. var is function-scoped, let is block-scoped, and const is also block-scoped but with a value 
+that cannot be reassigned after declaration. 
+
+3. Anonymous functions are functions without a name, often defined inline without a declaration. 
+Higher-order functions are functions that can accept other functions as arguments or return functions as results.
+
+4. 
+In JavaScript, objects are collections of key-value pairs where values can be of any data type, including functions and other objects.
+OOP languages use objects as instances of classes and heavily rely on encapsulation and inheritance. They are
+a lot less flexible.
+
