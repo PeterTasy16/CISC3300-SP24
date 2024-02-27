@@ -1,0 +1,8 @@
+Peter Tasy
+Questions 4 & 5
+
+4. The DOM is an interface mostly for documents on the web. The tree is in reference to the fact that DOM
+represents the document as a tree of nodes, one for every aspect of the doc.
+
+5. An XSS attack is generally when a hacker injects malicious scripts into a victim's computer by way
+of using a website as an intermediary of sorts. Genreally, it is done when a user uses an inpurt field like a text box.
